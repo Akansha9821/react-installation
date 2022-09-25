@@ -2,11 +2,14 @@
 
 ## Steps for creating React project
 1. download node from node website
-2. install npm globally bu using command -> npm install -g create-react-app
+2. install npm globally bu using command -> npm install -g create-react-app.
+
 once it's install check the version using command ->
 node -v
 npm -v
+
 create-react-app --version
+
 3. go inside the project directories and ctrate app using command -> create-react-app <projectname>
 
 ==========================================Extra command for using react app ======================================================================================
